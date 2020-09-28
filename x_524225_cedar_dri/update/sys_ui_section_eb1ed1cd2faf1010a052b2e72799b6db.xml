@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Cedar 5" section_id="eb1ed1cd2faf1010a052b2e72799b6db" sys_domain="global" table="x_524225_cedar_dri_my_cedar" version="3" view="Cedar_cedar">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-27 16:26:49</sys_created_on>
+            <sys_id>4cf06d012fef1010a052b2e72799b694</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Cedar 5" display_value="Cedar 5" name="x_524225_cedar_dri_my_cedar" sys_domain="global" view="571ed1cd2faf1010a052b2e72799b6d7">eb1ed1cd2faf1010a052b2e72799b6db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-27 16:26:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_mod_count</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-27 16:26:49</sys_created_on>
+            <sys_id>ccf06d012fef1010a052b2e72799b694</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Cedar 5" display_value="Cedar 5" name="x_524225_cedar_dri_my_cedar" sys_domain="global" view="571ed1cd2faf1010a052b2e72799b6d7">eb1ed1cd2faf1010a052b2e72799b6db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-27 16:26:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cxs_table_search.xml</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-27 16:26:49</sys_created_on>
+            <sys_id>40f06d012fef1010a052b2e72799b695</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
+            <sys_ui_section caption="Cedar 5" display_value="Cedar 5" name="x_524225_cedar_dri_my_cedar" sys_domain="global" view="571ed1cd2faf1010a052b2e72799b6d7">eb1ed1cd2faf1010a052b2e72799b6db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-27 16:26:49</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Cedar 5</caption>
+            <header>false</header>
+            <name>x_524225_cedar_dri_my_cedar</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-27 16:14:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb1ed1cd2faf1010a052b2e72799b6db</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Cedar 5</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Cedar Drive" source="x_524225_cedar_dri">bf9ae75b2f971010a052b2e72799b6a2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cedar Drive">bf9ae75b2f971010a052b2e72799b6a2</sys_scope>
+            <sys_update_name>sys_ui_section_eb1ed1cd2faf1010a052b2e72799b6db</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-27 16:26:49</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Cedar cedar" name="Cedar_cedar">571ed1cd2faf1010a052b2e72799b6d7</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

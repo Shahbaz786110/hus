@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="ab1ed1cd2faf1010a052b2e72799b6dc" sys_domain="global" table="x_524225_cedar_dri_my_cedar" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-27 16:14:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab1ed1cd2faf1010a052b2e72799b6de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_524225_cedar_dri_my_cedar" name="x_524225_cedar_dri_my_cedar" sys_domain="global" view="571ed1cd2faf1010a052b2e72799b6d7">ab1ed1cd2faf1010a052b2e72799b6dc</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_524225_cedar_dri_my_cedar" sys_domain="global" view="571ed1cd2faf1010a052b2e72799b6d7">631ed1cd2faf1010a052b2e72799b6db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-27 16:14:29</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-27 16:14:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>671ed1cd2faf1010a052b2e72799b6df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_524225_cedar_dri_my_cedar" name="x_524225_cedar_dri_my_cedar" sys_domain="global" view="571ed1cd2faf1010a052b2e72799b6d7">ab1ed1cd2faf1010a052b2e72799b6dc</sys_ui_form>
+            <sys_ui_section caption="Cedar 5" display_value="Cedar 5" name="x_524225_cedar_dri_my_cedar" sys_domain="global" view="571ed1cd2faf1010a052b2e72799b6d7">eb1ed1cd2faf1010a052b2e72799b6db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-27 16:14:29</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_524225_cedar_dri_my_cedar</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-27 16:14:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab1ed1cd2faf1010a052b2e72799b6dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_524225_cedar_dri_my_cedar</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Cedar Drive" source="x_524225_cedar_dri">bf9ae75b2f971010a052b2e72799b6a2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cedar Drive">bf9ae75b2f971010a052b2e72799b6a2</sys_scope>
+            <sys_update_name>sys_ui_form_sections_ab1ed1cd2faf1010a052b2e72799b6dc</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-27 16:14:29</sys_updated_on>
+            <sys_user/>
+            <view display_value="Cedar cedar" name="Cedar_cedar">571ed1cd2faf1010a052b2e72799b6d7</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

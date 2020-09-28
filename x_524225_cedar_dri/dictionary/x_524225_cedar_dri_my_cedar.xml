@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" audit="true" label="Cedar cedar" max_length="40" name="x_524225_cedar_dri_my_cedar" sizeclass="0" type="collection">
+        <element label="New Field 1" max_length="40" name="new_field_1" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="New form 2" mandatory="true" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="legal" label="Request type" mandatory="true" max_length="40" name="u_choice_3" type="string">
+            <choice>
+                <element inactive_on_update="false" label="HR" sequence="0" value="hr"/>
+                <element inactive_on_update="false" label="Facilities" sequence="1" value="fac"/>
+                <element inactive_on_update="false" label="Legal" sequence="2" value="legal"/>
+                <element inactive_on_update="false" label="Your Dep choice" sequence="3" value="your_choice"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Requested for" max_length="32" name="u_reference_2" read_only="true" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="legal 1" label="What needed" mandatory="true" max_length="40" name="u_what_needed" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Human resources 1" sequence="0" value="hr1"/>
+                <element inactive_on_update="false" label="Human Resources 2" sequence="1" value="hr2"/>
+                <element inactive_on_update="false" label="facilities 1" sequence="2" value="facilities1"/>
+                <element inactive_on_update="false" label="facilities 2" sequence="3" value="facilities 2"/>
+                <element inactive_on_update="false" label="legal 1" sequence="4" value="legal 1"/>
+                <element inactive_on_update="false" label="Legal 2" sequence="5" value="legal 2"/>
+                <element inactive_on_update="false" label="Your department choice 1" sequence="6" value="your_choice 1"/>
+                <element inactive_on_update="false" label="Your department choice 2" sequence="7" value="your_choice 2"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="When Needed" mandatory="true" max_length="40" name="u_when_needed" type="calendar_date_time"/>
+        <index name="index">
+            <element name="u_reference_2"/>
+        </index>
+    </element>
+</database>

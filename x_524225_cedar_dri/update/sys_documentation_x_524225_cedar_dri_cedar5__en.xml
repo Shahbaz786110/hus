@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Cedar5" language="en" table="x_524225_cedar_dri_cedar5">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Cedar5</label>
+            <language>en</language>
+            <name>x_524225_cedar_dri_cedar5</name>
+            <plural>Cedar5s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-26 20:18:02</sys_created_on>
+            <sys_id>154c41b02f671010a052b2e72799b65d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Cedar5</sys_name>
+            <sys_package display_value="Cedar Drive" source="x_524225_cedar_dri">bf9ae75b2f971010a052b2e72799b6a2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cedar Drive">bf9ae75b2f971010a052b2e72799b6a2</sys_scope>
+            <sys_update_name>sys_documentation_x_524225_cedar_dri_cedar5__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-26 20:18:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
